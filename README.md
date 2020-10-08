@@ -68,4 +68,7 @@ The series of letters and numbers after 'commit' can be used to reset DIRECTLY t
 Names
 ==========
 * David
-* Barry
+* Barr
+* Brian
+* Mark
+* Damien
